@@ -1,8 +1,8 @@
-# 🖋️ novel-writing-workflow
+# 🖋️ EmaoNovel
 
 > 开口就是创作，剩下的交给 AI。
 
-一套以 **Git 为版本管理核心、AI 为执行层** 的小说创作工作流技能。你在聊天框里说出想法，AI 完成所有归档、整理、版本追踪——从零散素材到结构化世界书，从初稿到迭代修订，全程自动化。
+一套以 **Git 为版本管理核心、AI 为执行层** 的小说创作工作流技能。在聊天框里说出想法，AI 完成归档、整理、版本追踪——从零散素材到结构化世界书，从初稿到迭代修订，全自动。
 
 ---
 
@@ -88,15 +88,15 @@
 
 ---
 
-## 📦 文件结构
+## 📦 技能结构
 
 ```
-novel-writing-workflow/
-├── SKILL.md                       # 技能入口（46行）
+EmaoNovel/
+├── SKILL.md                       # 技能入口
 └── references/
     ├── rules.md                   # 规则引擎详解
     ├── workflow.md                # 五阶段完整流程
-    ├── usage-examples.md          # 四个典型使用场景
+    ├── usage-examples.md          # 典型使用场景
     └── templates/
         ├── 规则引擎.md
         ├── 禁止事项.md
